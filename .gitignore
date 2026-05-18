@@ -8,5 +8,5 @@ venv/
 __pycache__/
 *.pyc
 
-# Memory file (optional)
+# Memory file
 memory.json
